@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nancy2927
-- 👀 I’m interested in ui/ux designing,
+- 👀 I’m interested in Devops,fullstack dev,data analytics,aiml,ui/ux designing,
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me raj29may1990@gmail.com
